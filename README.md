@@ -8,6 +8,8 @@ This project demonstrates how to deploy a Hugging Face model using a Flask appli
 - **Web Interface**: Simple and intuitive web interface built with Flask and HTML/CSS.
 - **API Integration**: Direct integration with Hugging Face's serverless inference API.
 
+![Imagine AI UI Screenshot](assets/ui_screenshot.png)
+
 ## Prerequisites
 
 - Python 3.8+
