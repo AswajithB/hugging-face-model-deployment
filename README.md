@@ -17,7 +17,7 @@ This project demonstrates how to deploy a Hugging Face model using a Flask appli
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/AswajithB/hugging-face-model-deployment.git
     cd <repository_folder>
     ```
 
